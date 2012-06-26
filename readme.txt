@@ -42,9 +42,7 @@ For help, please post a comment at our <a href="http://thewpvalet.com/blog/2012/
 
 == Screenshots ==
 
-Where checklist is displayed
-
-<img src="http://thewpvalet.com/wp-content/uploads/2012/06/screenshot-1.jpg" />
+1. Where the checklist is located on admin screen
 
 
 == Changelog ==
