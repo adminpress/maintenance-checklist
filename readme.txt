@@ -7,6 +7,8 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+Maintenance Checklist helps you keep all your maintenance tasks under control by giving you an easy to use task management system.
+
 == Description ==
 
 When supporting WordPress websites, a necessary evil is the tedious tasks of on-going maintenance. Tasks that fall under on-going maintenance are backups, spam & trash comment removal, database optimization, and much more.
@@ -31,7 +33,7 @@ Features:
 * Delete any tasks.
 * The "Feel Good Engine". When all tasks have been completed, we make you feel good for all your hard work!
 
-For help, please post a comment at our <a href="http://thewpvalet.com/?p=123">maintenance checklist</a> post.
+For help, please post a comment at our <a href="http://thewpvalet.com/blog/2012/06/25/wordpress-plugin-maintenance-checklist">maintenance checklist</a> post.
 
 == Installation ==
 
@@ -42,11 +44,10 @@ For help, please post a comment at our <a href="http://thewpvalet.com/?p=123">ma
 
 Where checklist is displayed
 
-location.jpg
+<img src="http://thewpvalet.com/wp-content/uploads/2012/06/screenshot-1.jpg" />
 
 
 == Changelog ==
 
 = 1.0 =
 * Initial Release
-
