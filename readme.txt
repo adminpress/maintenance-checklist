@@ -44,7 +44,7 @@ For help, please post a comment at our <a href="http://thewpvalet.com/blog/2012/
 
 Where checklist is displayed
 
-<img src="screenshot-1.jpg" />
+<img src="http://thewpvalet.com/wp-content/uploads/2012/06/screenshot-1.jpg" />
 
 
 == Changelog ==
