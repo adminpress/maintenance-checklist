@@ -40,11 +40,6 @@ For help, please post a comment at our <a href="http://thewpvalet.com/blog/2012/
 1. Upload maintenance-checklist folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
-== Screenshots ==
-
-1. Where the checklist is located on admin screen
-
-
 == Changelog ==
 
 = 1.0 =
