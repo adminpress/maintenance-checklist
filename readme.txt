@@ -18,6 +18,7 @@ What Maintenance Checklist provides is an easy to understand checklist for thing
 
 = Who can benefit from this plugin =
 
+
 **Bloggers**
 
 With the default installation providing you a checklist of crucial tasks, you can see what needs to be done for your blog to keep it running perfectly. All you need to do is check off the task once you completed it.
@@ -34,12 +35,17 @@ With the "Add Task" feature, you can add tasks for tracking. You may have tons o
 * Delete any tasks.
 * The "Feel Good Engine". When all tasks have been completed, we make you feel good for all your hard work!
 
-For help, please post a comment at our <a href="http://thewpvalet.com/blog/2012/06/25/wordpress-plugin-maintenance-checklist">maintenance checklist</a> post.
+For help, please post a comment at our <a href="http://thewpvalet.com/blog/2012/06/25/wordpress-plugin-maintenance-checklist">maintenance checklist</a> post or follow us at <a href="http://www.twitter.com/thewpvalet">@thewpvalet</a>
+
 
 == Installation ==
 
 1. Upload maintenance-checklist folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Screenshots ==
+
+1. This is the location of the maintenance checklist on your dashboard
 
 == Changelog ==
 
