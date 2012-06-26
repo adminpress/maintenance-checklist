@@ -31,7 +31,7 @@ Features:
 * Delete any tasks.
 * The "Feel Good Engine". When all tasks have been completed, we make you feel good for all your hard work!
 
-For help, please post a comment at our<a href="http://thewpvalet.com/?p=123">maintenance checklist</a> post.
+For help, please post a comment at our <a href="http://thewpvalet.com/?p=123">maintenance checklist</a> post.
 
 == Installation ==
 
